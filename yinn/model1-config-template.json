@@ -1,0 +1,12 @@
+{
+    "//sharesHeld": "持有股數",
+    "sharesHeld": 10,
+    "sharesReserve": 2,
+    "gainTarget": 1000,
+    "products": [
+        {
+            "symbol": "VT",
+            "price": 100
+        }
+    ]
+}
